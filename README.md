@@ -3,3 +3,4 @@ then after you have gone thrugh the steps in the exe you can move the .bat file 
 
 
 NOTE! you have to have npm installed!!!
+Install it here https://nodejs.org/en/download
